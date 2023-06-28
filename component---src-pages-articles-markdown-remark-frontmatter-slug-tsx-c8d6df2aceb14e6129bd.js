@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunk_1241am=self.webpackChunk_1241am||[]).push([[434],{1796:function(t,e,l){l.r(e);var n=l(6298);e.default=t=>{let{data:e}=t;const{markdownRemark:l}=e,{frontmatter:a,html:r}=l;return(0,n.tZ)("div",null,(0,n.tZ)("div",null,(0,n.tZ)("h1",null,a.title),(0,n.tZ)("h4",null,"Wrote by AI - ",(0,n.tZ)("a",{href:""},"Report")),(0,n.tZ)("h5",null,a.date),(0,n.tZ)("div",{dangerouslySetInnerHTML:{__html:r}})))}}}]);
+//# sourceMappingURL=component---src-pages-articles-markdown-remark-frontmatter-slug-tsx-c8d6df2aceb14e6129bd.js.map
